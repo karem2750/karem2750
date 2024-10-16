@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @karem2750
-- 👀 I’m interested in Networking and IT Field
-- 🌱 I’m currently learning MCSE,CCNP and VMWARE
+- 👋 Hi, I’m @kareem
+- 👀 I’m interested in system administration and IT Field
 - 📫 You can  reach me through 
        Email:Kare2750@gmail.com
        Mobile Phone: +201276194065
-                   : +201554000811
        
        
        
